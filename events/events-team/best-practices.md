@@ -1,4 +1,4 @@
-# Best pracices for running a Kubernetes Contributor Summit
+# Best practices for running a Kubernetes Contributor Summit
 
 New home for best practices, process documentation, and other artifacts that detail out the 'how to' of running a Kubernetes contributor summit.
 
